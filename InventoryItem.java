@@ -67,7 +67,9 @@ class InventoryItem {
         System.out.println("Expiration Date: " + expirationDate);
         System.out.println("Category: " + category);
     }
+}
 
+public class InventoryManagementSystem {
     public static void main(String[] args) {
         // Example usage
         Scanner scanner = new Scanner(System.in);
@@ -107,4 +109,3 @@ class InventoryItem {
         scanner.close();
     }
 }
-
