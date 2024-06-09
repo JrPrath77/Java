@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/junio/swapnil_github_pull"
+		},
+		{
+			"path": "../../../CPP"
+		},
+		{
+			"path": "../../../Data Structure"
+		},
+		{
+			"path": "../../../Delta Course Apana collage"
+		},
+		{
+			"path": "../../../Embedded System"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../OS"
+		},
+		{
+			"path": "C:/Users/junio/OneDrive/Desktop/Docker"
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true,
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"Java_Project_E-Mart/DeliveryManager/lib/protobuf-java-2.6.0.jar",
+			"mysql-connector-j-8.4.0.jar",
+			"c:\\Users\\junio\\OneDrive\\Desktop\\mysql-connector-j-8.4.0.jar"
+		],
+		"docwriter.progress.trackClasses": true
+	}
+}
